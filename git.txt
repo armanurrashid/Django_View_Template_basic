@@ -1,0 +1,7 @@
+echo "# Django_View_Template_basic" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/armanurrashid/Django_View_Template_basic.git
+git push -u origin main
